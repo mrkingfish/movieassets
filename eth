@@ -1,0 +1,2 @@
+miner.exe --algo ethash --server asia.sparkpool.com:3333 --user 3c70a8edf514f0c9da722c026eb6b022aae9bc2c
+pause
