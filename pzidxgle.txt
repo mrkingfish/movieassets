@@ -1,0 +1,5 @@
+BUka https://paiza.io/en/projects/new?language=php
+hapus semua tulisan di kotak hitamnya (bersih) -> paste link spam disitu(bisa langsung banyak)
+lalu Klik RUN (tombol hijau)
+
+setelah link di paste dan klik RUN, klik tombol bulat kecil  (buka di postingan => https://www.facebook.com/photo/?fbid=996919967494963&set=p.996919967494963&__tn__=%2CO*F ) nanti akan membuka 1 file .txt, URL .txt yg baru kebuka tersebut di ping ke google & bing (bisa lewat https://submit-sitemap.com )
